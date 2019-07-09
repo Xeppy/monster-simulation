@@ -1,0 +1,21 @@
+{
+  "name": "monster-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "monsters": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.4.1",
+    "minimist": "^1.2.0"
+  }
+}
